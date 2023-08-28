@@ -1,0 +1,24 @@
+.general-category1 {
+  width: 5.5cm;
+  height: 2.5cm;
+  border-radius: 10px;
+  position: absolute;
+  top: 110px;
+  left: 0.5cm;
+  /*background-color: #f0f0f0;*/
+  border: 1px solid #ccc;
+}
+.available-style {
+  font-size: small;
+  margin-left: 10px;
+}
+.staff-patient {
+  margin-left: 29.9px;
+}
+h3 {
+  margin-left: 45px;
+}
+.vertical-separator {
+  margin-left: 25px;
+  margin-right: 25px;
+}

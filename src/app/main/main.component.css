@@ -1,0 +1,46 @@
+.main-container {
+  top: 200px;
+  position: absolute;
+  border-radius: 10px;
+  width: 35cm;
+  height: 10cm;
+
+  border: 1px solid #ccc;
+  left: 0.5cm;
+}
+h4 {
+  margin-left: 40px;
+  margin-top: 10px;
+}
+hr {
+  width: 93%; /* Adjust the width as needed */
+  margin: 0 auto; /* Center the <hr> horizontally */
+  margin-top: -5px;
+}
+/*.main2-container {
+  top: 170px;
+  position: absolute;
+  border-radius: 10px;
+  width: 16cm;
+  height: 10.9cm;
+
+  border: 1px solid #ccc;
+  left: 0.5cm;
+}
+h4 {
+  margin-left: 40px;
+}
+hr {
+  width: 93%;
+  margin: 0 auto;
+}
+.main3-container {
+  top: 170px;
+  position: absolute;
+  border-radius: 10px;
+  width: 15cm;
+  height: 10.9cm;
+
+  border: 1px solid #ccc;
+  left: 20cm;
+}*/

@@ -1,0 +1,14 @@
+.category2-div {
+  width: 5.5cm;
+  height: 2.5cm;
+  border-radius: 10px;
+  position: absolute;
+  top: 65px;
+  left: 15.5cm;
+
+  border: 1px solid #ccc;
+}
+.sample-lost,
+.sample-lost-value {
+  text-align: center;
+}

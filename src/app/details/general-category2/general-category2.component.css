@@ -1,0 +1,32 @@
+.general-category2 {
+  width: 5.5cm;
+  height: 2.5cm;
+  border-radius: 10px;
+  position: absolute;
+  top: 110px;
+  left: 7cm;
+  /*background-color: #f0f0f0;*/
+  border: 1px solid #ccc;
+}
+.average-treatment-cost {
+  font-size: small;
+  margin-left: 20px;
+}
+.cost {
+  margin-top: 9px;
+  margin-left: 25px;
+}
+.cash-insurance {
+  margin-top: -10px;
+  font-size: small;
+  margin-left: 30px;
+}
+.insurance {
+  margin-left: 30px;
+}
+.insurance-amount {
+  margin-left: 50px;
+}
+.vs {
+  margin-left: 30px;
+}

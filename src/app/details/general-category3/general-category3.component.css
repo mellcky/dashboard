@@ -1,0 +1,17 @@
+.general-category3 {
+  width: 5.5cm;
+  height: 2.2cm;
+  border-radius: 10px;
+  position: absolute;
+  top: 115px;
+  left: 13.9cm;
+  /*background-color: #f0f0f0;*/
+  border: 1px solid #ccc;
+}
+.waiting-time {
+  font-size: 13px;
+  text-align: center;
+}
+.waiting-hours {
+  text-align: center;
+}

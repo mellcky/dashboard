@@ -1,0 +1,14 @@
+.category3-div {
+  width: 5.5cm;
+  height: 2.5cm;
+  border-radius: 10px;
+  position: absolute;
+  top: 60.5px;
+  left: 27.5cm;
+
+  border: 1px solid #ccc;
+}
+.sample-not-received,
+.sample-not-received-value {
+  text-align: center;
+}

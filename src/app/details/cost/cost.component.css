@@ -1,0 +1,14 @@
+.custom4-div {
+  width: 275px;
+  height: 2.9cm;
+  border-radius: 10px;
+  position: absolute;
+  top: 70px;
+  left: 1071px;
+
+  border: 1px solid #ccc;
+}
+p,
+h3 {
+  text-align: center;
+}

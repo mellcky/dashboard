@@ -1,0 +1,27 @@
+.main2-container {
+  top: 170px;
+  position: absolute;
+  border-radius: 10px;
+  width: 17.5cm;
+  height: 10.9cm;
+
+  border: 1px solid #ccc;
+  left: 0.5cm;
+}
+h4 {
+  margin-left: 40px;
+}
+hr {
+  width: 93%;
+  margin: 0 auto;
+}
+.main3-container {
+  top: 170px;
+  position: absolute;
+  border-radius: 10px;
+  width: 16.5cm;
+  height: 10.9cm;
+
+  border: 1px solid #ccc;
+  left: 19cm;
+}

@@ -1,0 +1,18 @@
+.main3-container {
+  top: 220px;
+  position: absolute;
+  border-radius: 10px;
+  width: 25.2cm;
+  height: 10cm;
+
+  border: 1px solid #ccc;
+  left: 1.1cm;
+}
+h4 {
+  margin-left: 40px;
+  margin-top: 12px;
+}
+hr {
+  width: 93%; /* Adjust the width as needed */
+  margin: 0 auto; /* Center the <hr> horizontally */
+}

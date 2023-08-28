@@ -1,0 +1,22 @@
+.general-category4 {
+  width: 5.5cm;
+  height: 2.2cm;
+  border-radius: 10px;
+  position: absolute;
+  top: 115px;
+  left: 20.9cm;
+  /*background-color: #f0f0f0;*/
+  border: 1px solid #ccc;
+}
+.out-in-patients {
+  font-family: Inter;
+  text-align: center;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: -0.154px;
+}
+.out-in-value {
+  text-align: center;
+}

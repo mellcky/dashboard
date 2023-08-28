@@ -1,0 +1,16 @@
+.general-category-div {
+  width: 5.9cm;
+  height: 0.9cm;
+  border-radius: 20px;
+  position: absolute;
+  top: 65px;
+  left: 0.5cm;
+  /*background-color: #f0f0f0;*/
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+p {
+  margin-right: 70px;
+}

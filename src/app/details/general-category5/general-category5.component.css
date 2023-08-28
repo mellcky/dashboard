@@ -1,0 +1,14 @@
+.general-category5 {
+  width: 7.9cm;
+  height: 4.7cm;
+  border-radius: 10px;
+  position: absolute;
+  top: 80px;
+  left: 27cm;
+  /*background-color: #f0f0f0;*/
+  border: 1px solid #ccc;
+}
+.patients-category,
+.patients-category-value {
+  margin-left: 20px;
+}
