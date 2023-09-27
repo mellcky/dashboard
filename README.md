@@ -3,8 +3,8 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Development server
-Install all required npm indipendicies by running nom install
-Install highcharts by running npm install highcharts-angular --save
+Install all required npm independencies by running npm install
+Install Highcharts by running npm install Highcharts-angular --save
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
